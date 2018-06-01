@@ -1,6 +1,6 @@
 # Voxyc
 
-Voxel editor with OBJ export, import and cross-platform game engine with Lua scripting
+Voxel engine with editor, OBJ export, import and Lua scripting
 
 ## Screenshots
 
